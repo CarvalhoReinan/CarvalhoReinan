@@ -27,6 +27,4 @@ Sou um estudante apaixonado por tecnologia, design, desafios e reinvenção pess
 ### 📫 Contato:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:reinancdj55@gmail.com)
 
-- 💼 [Meu LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/reinan-carvalho-25aa03253/)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/reinan-carvalho-25aa03253/)
