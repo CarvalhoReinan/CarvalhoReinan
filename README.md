@@ -8,9 +8,12 @@ Sou um estudante apaixonado por tecnologia, design, desafios e reinvenção pess
 - 💪 Vencendo o vício digital e vivendo de forma equilibrada
 
 ## 🛠️ Tecnologias que estou estudando:
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python]([https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
+))
+![Java]([https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white
+))
+![Git]([https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white
+))
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
 
