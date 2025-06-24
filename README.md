@@ -8,7 +8,6 @@ Sou um estudante apaixonado por tecnologia, design, desafios e reinvenção pess
 - 💪 Vencendo o vício digital e vivendo de forma equilibrada
 
 ## 🛠️ Tecnologias que estou estudando:
-## 🛠️ Tecnologias que estou estudando:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
