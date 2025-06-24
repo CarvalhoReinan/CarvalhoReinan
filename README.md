@@ -11,6 +11,8 @@ Sou um estudante apaixonado por tecnologia, design, desafios e reinvenção pess
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Html].(https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)
+![Css].(https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
 
 ## 📊 GitHub Stats
 ![ReiiBgk's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarvalhoReinan&show_icons=true&theme=dracula)
