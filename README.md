@@ -15,9 +15,6 @@ Sou um estudante apaixonado por tecnologia, design, desafios e reinvenção pess
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-563d7c?style=flat&logo=css3&logoColor=white)
 
-## 📊 GitHub Stats
-![ReiiBgk's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarvalhoReinan&show_icons=true&theme=dracula)
-
 
 ## 🐍 Snake comendo meus commits!
 
