@@ -5,7 +5,7 @@ Sou um estudante apaixonado por tecnologia, design, desafios e reinvenção pess
 - 🎯 Em busca de me tornar um desenvolvedor full stack
 - 📚 Estudando Java, Python e lógica de programação
 - 📹 Criando conteúdo no canal **ReiiBgk** (em breve)
-- 💪 Vencendo o vício digital e vivendo de forma equilibrada
+  
 
 ## 🛠️ Tecnologias que estou estudando:
 
